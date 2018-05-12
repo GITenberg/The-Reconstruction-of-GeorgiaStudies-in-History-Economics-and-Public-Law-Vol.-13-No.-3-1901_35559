@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37749'
     url: http://www.gutenberg.org/2009/agents/37749
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35559#The-Reconstruction-of-GeorgiaStudies-in-History-Economics-and-Public-Law-Vol.-13-No.-3-1901
 gutenberg_issued: '2011-03-12'
 gutenberg_type: Text
 identifiers:

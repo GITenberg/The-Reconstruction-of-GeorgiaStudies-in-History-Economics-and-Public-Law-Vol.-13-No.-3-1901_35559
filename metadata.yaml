@@ -1,0 +1,29 @@
+_repo: The-Reconstruction-of-GeorgiaStudies-in-History-Economics-and-Public-Law-Vol.-13-No.-3-1901_35559
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Woolley, Edwin C. (Edwin Campbell)
+    birthdate: 1878
+    deathdate: 1916
+    gutenberg_agent_id: '37749'
+    url: http://www.gutenberg.org/2009/agents/37749
+description: ''
+gutenberg_issued: '2011-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35559'
+  lccn: '02025101'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reconstruction (U.S. history, 1865-1877) -- Georgia'
+- !lcc 'F206'
+title: 'The Reconstruction of Georgia
+
+  Studies in History, Economics and Public Law, Vol. 13, No. 3, 1901'
+url: http://www.gutenberg.org/ebooks/35559
